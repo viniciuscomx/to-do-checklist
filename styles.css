@@ -19,6 +19,29 @@ h1 {
   font-weight: 600;
 }
 
+#filtro {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+  align-items: center;
+}
+
+#filtro-tarefa {
+  padding: 12px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  font-size: 1rem;
+  min-width: 200px;
+}
+
+#filtro-tipo {
+  padding: 12px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  font-size: 1rem;
+}
+
 #form-tarefa {
   display: flex;
   justify-content: center;
@@ -114,7 +137,6 @@ li:last-child {
 .btns button:hover {
   background-color: #c0c0c0;
 }
-
 
 @media screen and (max-width: 1024px) {
   #blocos-tarefas {

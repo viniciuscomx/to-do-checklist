@@ -1,6 +1,6 @@
 # ✅ To-Do Checklist
 
-Projeto simples de lista de tarefas usando HTML, CSS e JavaScript.
+Projeto simples de checklist usando HTML, CSS e JavaScript.
 
 ## 🔧 Funcionalidades
 

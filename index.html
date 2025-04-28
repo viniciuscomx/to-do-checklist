@@ -10,6 +10,16 @@
 <body>
   <h1>🧠 Lista de Tarefas</h1>
   
+  <div id="filtro">
+    <input type="text" id="filtro-tarefa" placeholder="Filtrar tarefa..." oninput="filtrarTarefas()" />
+    <select id="filtro-tipo" onchange="filtrarTarefas()">
+      <option value="">Todos</option>
+      <option value="Trabalho">Trabalho</option>
+      <option value="Estudos">Estudos</option>
+      <option value="Pessoal">Pessoal</option>
+    </select>
+  </div>
+
   <div id="form-tarefa">
     <input type="text" id="titulo" placeholder="Digite a tarefa..." />
     <select id="tipo">
