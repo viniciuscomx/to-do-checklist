@@ -12,7 +12,6 @@ Projeto simples de checklist desenvolvido utilizando **HTML**, **CSS** e **JavaS
 - **Filtro por categoria**: Organize suas tarefas em categorias, como "Trabalho", "Estudos" e "Pessoal".
 - **Filtro de busca**: Pesquisa rápida para encontrar tarefas por título.
 - **Contador de tarefas**: Exibe o número total de tarefas ativas e concluídas.
-- **Alternância de tema**: Alterna entre temas claro e escuro para personalizar a aparência.
 
 ---
 
@@ -60,6 +59,6 @@ Abra um Pull Request para revisão.
 💬 Contato
 Se você tiver dúvidas ou sugestões, sinta-se à vontade para me enviar uma mensagem:
 
-Email: viniciuscomx@example.com
+Email: vinicius_xavier1@outlook.com
 
-LinkedIn: vinicius-comx
+LinkedIn: [vinicius-comx](https://www.linkedin.com/in/vinicius-xavier-28b93617b/)
